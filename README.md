@@ -11,14 +11,4 @@ I spend most of my time understanding how systems fail — misconfigurations, lo
 - Linux internals, permissions, and process behavior
 - Automation and scripting to reduce manual effort
 
-## Current focus
-- Modern C++ (C++20) for security-sensitive code
-- HTTP servers, protocol parsing, and attack surfaces
-- Privilege escalation analysis and enumeration tooling
-- Penetration testing and Offensive Security learning
-
-## Selected projects
-- **cpp-http-server** — High-performance HTTP server in modern C++
-- **privesc-ai** — AI-assisted privilege escalation research tool
-
 Focused on learning, breaking, and fixing systems responsibly.
