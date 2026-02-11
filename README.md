@@ -1,16 +1,24 @@
-## Hi there 👋
+# Cole
 
-<!--
-**bashcrumb/bashcrumb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security-focused with a strong interest in low-level systems, Linux internals, and offensive security research.
 
-Here are some ideas to get you started:
+I spend most of my time understanding how systems fail — misconfigurations, logic errors, unsafe assumptions — and turning that knowledge into better tooling and more secure designs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Offensive security tooling and research
+- Privilege escalation techniques and post-exploitation workflows
+- C/C++ systems programming (networking, concurrency, I/O)
+- Linux internals, permissions, and process behavior
+- Automation and scripting to reduce manual effort
+
+## Current focus
+- Modern C++ (C++20) for security-sensitive code
+- HTTP servers, protocol parsing, and attack surfaces
+- Privilege escalation analysis and enumeration tooling
+- Penetration testing and Offensive Security learning
+
+## Selected projects
+- **cpp-http-server** — High-performance HTTP server in modern C++
+- **privesc-ai** — AI-assisted privilege escalation research tool
+
+Focused on learning, breaking, and fixing systems responsibly.
